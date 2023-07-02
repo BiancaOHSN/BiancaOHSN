@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BiancaOHSN Bianca Roelandschap
-- 👀 I’m interested in Web Development / Webdesign
-- 🌱 I’m currently learning Web Development
+- 👀 I'm a webdesigner and a starting developer
+- 🌱 I’m currently learning to make extensions for Joomla! 4
 - 📫 How to reach me: through my e-mail: bianca@ohsn.nl or on discord 12Pooh#5896
 
 <!---
